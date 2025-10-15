@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Mazhar! 
+**Machine Learning Engineer | NLP & Computer Vision Specialist**
 
-<!--
-**Mazhar113/Mazhar113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With 3+ years of experience in production machine learning systems, I specialize in building intelligent solutions using cutting-edge AI technologies.
 
-Here are some ideas to get you started:
+## 🔧 Technical Expertise
+- **🤖 Machine Learning:** Deep Learning, Neural Networks, Predictive Modeling
+- **💬 Natural Language Processing:** Sentiment Analysis, Text Classification, Transformers
+- **👁️ Computer Vision:** Image Recognition, Object Detection, OpenCV
+- **📈 Time Series Analysis:** Forecasting, Anomaly Detection, Pattern Recognition
+- **🐍 Programming:** Python, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### [NLP Projects](https://github.com/Mazhar113/NLP-Projects)
+Sentiment analysis, text classification, and language modeling using state-of-the-art transformers.
+
+### [Computer Vision Projects](https://github.com/Mazhar113/Computer-Vision-Projects)  
+Image processing, object detection, and deep learning applications.
+
+### [Data Analysis Projects](https://github.com/Mazhar113/Data-Analysis-Projects)
+Comprehensive data mining, cleaning, and visualization for business insights.
+
+## 📫 Let's Connect
+- **Fiverr:** [Add your Fiverr profile link here]
+- **LinkedIn:** [Add your LinkedIn profile link here]
+
+---
+
+⭐ *From [Mazhar113](https://github.com/Mazhar113)*
