@@ -22,8 +22,8 @@ Image processing, object detection, and deep learning applications.
 Comprehensive data mining, cleaning, and visualization for business insights.
 
 ## 📫 Let's Connect
-- **Fiverr:** [Add your Fiverr profile link here]
-- **LinkedIn:** [Add your LinkedIn profile link here]
+- **Fiverr:** https://www.fiverr.com/users/mazharlund11
+- **LinkedIn:** https://www.linkedin.com/in/mazhar-ali-939453282/
 
 ---
 
